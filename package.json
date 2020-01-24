@@ -1,0 +1,14 @@
+{
+  "name": "private-request",
+  "version": "1.0.0",
+  "description": "Express middleware that ensures a request was recieved from a private ip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Van Gunsolley",
+  "license": "MIT",
+  "dependencies": {
+    "request-ip": "^2.1.3"
+  }
+}
